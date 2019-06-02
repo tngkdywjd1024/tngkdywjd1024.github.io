@@ -12,7 +12,7 @@ header, nav, section, article, aside, footer
 .banner li{border:2px solid coral; padding:10px; margin:10px; box-shadow:0 1px 3px gray;}
 .banner li img {width:70%; vertical-align:middle;} 
 a:link{color:black; background-color:transparent; text-decoration:none; }
-a:visited{color:lightgray; background-color:transparent; text-decoration:none; }
+a:visited{color:gray; background-color:transparent; text-decoration:none; }
 a:hover{color:violet; background-color:transparent; text-decoration:underline; }
 a:active{color:lightgreen; background-color:transparent; text-decoration:none; }
   /* for mobile*/
