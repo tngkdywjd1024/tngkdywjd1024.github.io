@@ -13,7 +13,7 @@ header, nav, section, article, aside, footer
 .banner li img {width:70%; vertical-align:middle;} 
 a:link{color:black; background-color:transparent; text-decoration:none; }
 a:visited{color:lightblue; background-color:transparent; text-decoration:none; }
-a:hover{color:orangered; background-color:transparent; text-decoration:underline; }
+a:hover{color:violet; background-color:transparent; text-decoration:underline; }
 a:active{color:lightgreen; background-color:transparent; text-decoration:none; }
   /* for mobile*/
 [class*="col-"]{width:100%;}
