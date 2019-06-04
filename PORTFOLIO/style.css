@@ -15,6 +15,8 @@ a:link{color:black; background-color:transparent; text-decoration:none; }
 a:visited{color:lightpink; background-color:transparent; text-decoration:none; }
 a:hover{color:indianred; background-color:transparent; text-decoration:underline; }
 a:active{color:orange; background-color:transparent; text-decoration:none; }
+table { table-layout: fixed; }
+td { height:30px; width: 400px; }
   /* for mobile*/
 [class*="col-"]{width:100%;}
 @media only screen and (min-width: 600px){ .col-m-3{width:25%;} .col-m-9{width:75%;} .col-m-12{width:100%;} }
